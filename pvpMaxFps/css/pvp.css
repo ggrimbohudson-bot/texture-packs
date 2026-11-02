@@ -1,0 +1,10 @@
+/* PvP Max FPS: less UI noise over the world. */
+.WholeAppWrapper {
+	text-shadow: none !important;
+}
+.RightInfoDiv {
+	background-color: transparent !important;
+}
+.HotBarItem {
+	background-color: rgba(0, 0, 0, 0.22) !important;
+}

@@ -1,0 +1,11 @@
+/* Minecraft Replica: blocky hotbar in the vanilla spirit. */
+.HotBarItem {
+	background-color: rgba(22, 22, 22, 0.6) !important;
+	border: 2px solid #4f4f4f !important;
+}
+.SelectedItem {
+	border-color: #f2f2f2 !important;
+}
+.RightInfoDiv {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+}
